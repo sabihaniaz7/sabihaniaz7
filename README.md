@@ -25,7 +25,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://appetize.io/app/ag_pbukgc3fkomzqshndoszowgi2u" target="_blank">
-    <img src="https://img.shields.io/badge/▶%20Run%20Live%20on%20iOS%20Simulator-2D3748?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=2D3748" alt="Run iOS Demo" />
+    <img src="https://img.shields.io/badge/▶%20Run%20Live%20on%20iOS-2D3748?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=2D3748" alt="Run iOS Demo" />
   </a>
 </div>
 </div>
@@ -66,7 +66,7 @@
 
 | Project | Description & Key Engineering Features | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Todo App** | **Real-Time Task Manager:** Multi-auth task suite (Google Sync & Passwords). Handles live Cloud Firestore sync, calendar strip date filters, swipe-to-delete patterns, local light/dark theme persistence, and Firebase Cloud Messaging reminders. | Flutter, Firebase Auth, Firestore, Cloud Messaging, Provider | [Code](https://github.com/sabihaniaz7/Todo-App) · [Demo]() |
+| **Todo App** | **Real-Time Task Manager:** Multi-auth task suite (Google Sync & Passwords). Handles live Cloud Firestore sync, calendar strip date filters, swipe-to-delete patterns, local light/dark theme persistence, and Firebase Cloud Messaging reminders. | Flutter, Firebase Auth, Firestore, Cloud Messaging, Provider | [Code](https://github.com/sabihaniaz7/Todo-App) · [Demo](https://appetize.io/app/b_fbfaon4xpclcat3bjcwfe6jdna) |
 | **Light Link** | **Real-Time Load-Shedding App:** Solves real-world power schedule issues. Engineered a role-based system for live Firestore updates, integrated push notifications, profile management, and Cloudinary image hosting. | Flutter, Dart, Firebase Firestore, Cloudinary, RBAC |  |
 | **Expense Tracker** | **Personal Finance System:** Lightweight, offline-first app featuring local data caching, month-switching navigation, dynamic data visualization (Pie Charts), and an automated, 4-level visual budget escalation alert system. | Flutter, Hive NoSQL, Provider | [Code](https://github.com/sabihaniaz7/Expense-Tracker-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
 | **Trak** | **Multi-Utility Tracker:** Two-in-one productivity app combining task management and daily habit tracking. Built an Android Home Screen Widget for quick access alongside local notifications and robust data sorting/filtering. | Flutter, Provider, SharedPreferences, Local Notifications | [Code](https://github.com/sabihaniaz7/taskmanager-tracker-flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
