@@ -5,7 +5,6 @@
 
 <div align="center">
   <h3>Flutter Developer</h3>
-  <p>Building polished, production-ready mobile applications</p>
   <p align="center">
     <a href="mailto:sabihaniaz7@gmail.com"><img src="https://img.shields.io/badge/Email-sabihaniaz7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/sabiha-niaz"><img src="https://img.shields.io/badge/LinkedIn-Sabiha%20Niaz-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -56,6 +55,7 @@
 | **Quiz App** | **Logical Reasoning Platform:** Multi-subject educational platform with dynamic MCQ loading (750+ questions). Implemented robust scoring state logic, performance stats dashboards, PDF exports, and LaTeX rendering for math symbols. | Flutter, Dart, Provider, LaTeX, SharedPreferences | [Code](https://github.com/sabihaniaz7/Quiz-App-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
 | **Auth UI Kit** | **Production-Ready Templates:** Highly responsive login/signup authentication UI package featuring striking glassmorphism aesthetics and smooth interactive Rive mascot animations with clean validation logic. | Flutter, Rive Animation Engine, Custom UI/UX | [Code](https://github.com/sabihaniaz7/Login-Signup-UI-Flutter) |
 | **Notes App** | **Full CRUD Note-Taking:** Features rich-text editing, automated local database caching, global search, and layout structures (standard text, checklists, and bulleted note lists). | Flutter, Hive NoSQL, Provider State Management | [Code](https://github.com/sabihaniaz7/Notes-App-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
+| **PDF Reader** | **Document Viewer Architecture:** Features a smooth 3-tab navigation system handling Recent, Favorites, and On-Device local files with an optimized internal file-link structure. | Flutter, Dart, SharedPreferences, pdfrx package | [Code](https://github.com/sabihaniaz7/PDF-Reader-Flutter) |
 ---
 
 <div align="center">
