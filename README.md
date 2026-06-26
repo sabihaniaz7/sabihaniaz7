@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B5C9E2&height=120&section=header&text=Sabiha%20Niaz&fontSize=36&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B5C9E2&height=120&section=header&text=Sabiha%20Niaz&fontSize=46&fontColor=FFFFFF&fontAlignY=65&font=Alfa+Slab+One&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -44,9 +44,9 @@
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square)
 
 ---
-### Professional Experience & Current Internships
+### Professional Experience
 
-> *Note: The following commercial projects are protected under NDAs (Non-Disclosure Agreements). Specific application names, company identifiers, and proprietary source code have been omitted to respect confidentiality.*
+> *The following commercial projects are protected under NDAs (Non-Disclosure Agreements). Specific application names, company identifiers, and proprietary source code have been omitted to respect confidentiality.*
 
 *   **Mobile Software Engineering Intern** *(Current)*
   
@@ -65,7 +65,7 @@
 | **Expense Tracker** | **Personal Finance System:** Lightweight, offline-first app featuring local data caching, month-switching navigation, dynamic data visualization (Pie Charts), and an automated, 4-level visual budget escalation alert system. | Flutter, Hive NoSQL, Provider | [Code](https://github.com/sabihaniaz7/Expense-Tracker-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
 | **Trak** | **Multi-Utility Tracker:** Two-in-one productivity app combining task management and daily habit tracking. Built an Android Home Screen Widget for quick access alongside local notifications and robust data sorting/filtering. | Flutter, Provider, SharedPreferences, Local Notifications | [Code](https://github.com/sabihaniaz7/taskmanager-tracker-flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
 | **Quiz App** | **Logical Reasoning Platform:** Multi-subject educational platform with dynamic MCQ loading (750+ questions). Implemented robust scoring state logic, performance stats dashboards, PDF exports, and LaTeX rendering for math symbols. | Flutter, Dart, Provider, LaTeX, SharedPreferences | [Code](https://github.com/sabihaniaz7/Quiz-App-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
-| **Auth UI Kit** | **Production-Ready Templates:** Highly responsive login/signup authentication UI package featuring striking glassmorphism aesthetics and smooth interactive Rive mascot animations with clean validation logic. | Flutter, Rive Animation Engine, Custom UI/UX | [Code](https://github.com/sabihaniaz7/Login-Signup-UI-Flutter) |
+| **Auth UI Kit** | **Production-Ready Templates:** Highly responsive login/signup authentication UI package featuring striking glassmorphism aesthetics and smooth interactive Rive mascot animations with clean validation logic. | Flutter, Rive Animation Engine, Custom UI/UX | [Code](https://github.com/sabihaniaz7/Login-Signup-UI-Flutter) · [Demo](https://appetize.io/app/b_j66h7lr4q7x44x3ketqyqoesim) |
 | **Notes App** | **Full CRUD Note-Taking:** Features rich-text editing, automated local database caching, global search, and layout structures (standard text, checklists, and bulleted note lists). | Flutter, Hive NoSQL, Provider State Management | [Code](https://github.com/sabihaniaz7/Notes-App-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
 | **PDF Reader** | **Document Viewer Architecture:** Features a smooth 3-tab navigation system handling Recent, Favorites, and On-Device local files with an optimized internal file-link structure. | Flutter, Dart, SharedPreferences, pdfrx package | [Code](https://github.com/sabihaniaz7/PDF-Reader-Flutter) |
 ---
