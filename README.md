@@ -7,7 +7,7 @@
   <h3>Flutter Developer</h3>
   <p align="center">
     <a href="mailto:sabihaniaz7@gmail.com"><img src="https://img.shields.io/badge/Email-sabihaniaz7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/sabiha-niaz"><img src="https://img.shields.io/badge/LinkedIn-Sabiha%20Niaz-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/sabiha-niaz-864771383/"><img src="https://img.shields.io/badge/LinkedIn-Sabiha%20Niaz-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   </p>
 </div>
 
