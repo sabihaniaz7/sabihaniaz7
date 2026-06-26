@@ -49,7 +49,8 @@
 > *Note: The following commercial projects are protected under NDAs (Non-Disclosure Agreements). Specific application names, company identifiers, and proprietary source code have been omitted to respect confidentiality.*
 
 *   **Mobile Software Engineering Intern** *(Current)*
-*   **Cross-Platform Deployments:** Engineering and optimizing scalable codebases for both **Android and iOS** devices.
+  
+    *   **Cross-Platform Deployments:** Engineering and optimizing scalable codebases for both **Android and iOS** devices.
     *   **Advanced Authentication:** Implemented enterprise-grade auth using **Clerk**, including Google Sign-In, OTP validation, and secure password recovery workflows.
     *   **Multi-Tenant Role Architecture:** Built a **3-role access control system** that dynamically switches UI dashboards and app permissions based on the user type.
     *   **AI Agent Pipelines:** Integrated communication layers with **AI Agents** to handle real-time intelligent prompts and context-aware streaming responses.
