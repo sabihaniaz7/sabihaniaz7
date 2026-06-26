@@ -21,8 +21,13 @@
 
 <div align="center">
   <a href="https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune" target="_blank">
-    <img src="https://img.shields.io/badge/▶%20Run%20Live%20on%20Android-2D3748?style=for-the-badge&logo=android&logoColor=A8D5A2&labelColor=2D3748" alt="Run Live Demo" />
+    <img src="https://img.shields.io/badge/▶%20Run%20Live%20on%20Android-2D3748?style=for-the-badge&logo=android&logoColor=A8D5A2&labelColor=2D3748" alt="Run Android Demo" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://appetize.io/app/ag_pbukgc3fkomzqshndoszowgi2u" target="_blank">
+    <img src="https://img.shields.io/badge/▶%20Run%20Live%20on%20iOS%20Simulator-2D3748?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=2D3748" alt="Run iOS Demo" />
+  </a>
+</div>
 </div>
 
 ---
