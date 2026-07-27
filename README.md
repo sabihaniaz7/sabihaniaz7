@@ -90,13 +90,16 @@
 
 | Project | Description & Key Engineering Features | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **CalcX** | **Offline Calculator Suite:** Multi-tool calculator/utility app for students and engineers, with a redesigned, cohesive Material 3 visual language across every screen. | Flutter, Dart, GoRouter | *In final Play Store prep* |
+| **CalcX** | **Offline Calculator Suite:** Featuring 38–40 calculators and utilities across Mathematics, Physics, Computer Science, General Everyday Tools, History, and Favourites. | Flutter, Dart, GoRouter, Riverpod, Hive | *In final Play Store prep* |
 | **Todo App** | **Real-Time Task Manager:** Multi-auth task suite (Google Sync & Passwords) with live Firestore sync, calendar strip filters, swipe-to-delete, and FCM reminders. | Flutter, Firebase Auth, Firestore, Provider | [Code](https://github.com/sabihaniaz7/Todo-App) · [Demo](https://appetize.io/app/b_fbfaon4xpclcat3bjcwfe6jdna) |
 | **Expense Tracker** | **Personal Finance System:** Offline-first app with local caching, month navigation, Pie Chart visualizations, and a 4-level budget escalation alert system. | Flutter, Hive NoSQL, Provider | [Code](https://github.com/sabihaniaz7/Expense-Tracker-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
 | **Quiz App** | **Logical Reasoning Platform:** Multi-subject platform with 750+ dynamic MCQs, scoring logic, performance dashboards, PDF export, and LaTeX rendering. | Flutter, Dart, Provider, LaTeX | [Code](https://github.com/sabihaniaz7/Quiz-App-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
 
 <div align="center">
-  <sub>More projects — Light Link, Trak, Auth UI Kit, Notes App, PDF Reader — on <a href="https://github.com/sabihaniaz7?tab=repositories">my repositories page</a>.</sub>
+  <h5>
+    More projects — Light Link, Trak, Auth UI Kit, Notes App, PDF Reader —
+    on <a href="https://github.com/sabihaniaz7?tab=repositories">my repositories page</a>.
+  </h5>
 </div>
 
 ---
