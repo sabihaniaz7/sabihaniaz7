@@ -1,17 +1,30 @@
 <!-- Header -->
+<img src="https://komarev.com/ghpvc/?username=sabihaniaz7&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="Profile Views" align="left" />
+
+<br/><br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Sabiha+Niaz&font=Fira+Code&center=true&width=500&height=70&color=7C3AED&vCenter=true&size=48&weight=800&duration=1&pause=100000" alt="Sabiha Niaz" />
+</p>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B5C9E2&height=120&section=header&text=Sabiha%20Niaz&fontSize=46&fontColor=FFFFFF&fontAlignY=65&font=Alfa+Slab+One&animation=fadeIn" width="100%" />
+  <a href="https://github.com/sabihaniaz7">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Building+CalcX;Clean+Architecture+%7C+Riverpod+%7C+Provider&font=JetBrains+Mono&center=true&width=500&height=45&color=A78BFA&vCenter=true&size=20&weight=400" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <h3>Flutter Developer</h3>
   <p align="center">
     <a href="mailto:sabihaniaz7@gmail.com"><img src="https://img.shields.io/badge/Email-sabihaniaz7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/sabiha-niaz-864771383/"><img src="https://img.shields.io/badge/LinkedIn-Sabiha%20Niaz-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   </p>
 </div>
 
-<br/>
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabihaniaz7&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&currStreakNum=A78BFA&sideLabels=C9D1D9&sideNums=A78BFA&dates=8B98A5" alt="GitHub Streak" height="165" /> </div> 
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabihaniaz7&custom_title=Contribution+Graph&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C9D1D9&area=true&hide_border=true&count_private=true" alt="Contribution Graph" width="100%" /> </div>
 
 ---
 
@@ -27,7 +40,6 @@
   <a href="https://appetize.io/app/ag_pbukgc3fkomzqshndoszowgi2u" target="_blank">
     <img src="https://img.shields.io/badge/▶%20Run%20Live%20on%20iOS-2D3748?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=2D3748" alt="Run iOS Demo" />
   </a>
-</div>
 </div>
 
 ---
@@ -47,48 +59,39 @@
 ![Hive](https://img.shields.io/badge/Hive-FF7043?style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
+ 
+**CI/CD**
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=flat-square&logo=codemagic&logoColor=white)
 
 ---
+
 ### Professional Experience
 
 > *The following commercial projects are protected under NDAs (Non-Disclosure Agreements). Specific application names, company identifiers, and proprietary source code have been omitted to respect confidentiality.*
 
-*   **Mobile Software Engineering Intern** *(Current)*
-  
-    *   **Cross-Platform Deployments:** Engineering and optimizing scalable codebases for both **Android and iOS** devices.
-    *   **Advanced Authentication:** Implemented enterprise-grade auth using **Clerk**, including Google Sign-In, OTP validation, and secure password recovery workflows.
-    *   **Multi-Tenant Role Architecture:** Built a **3-role access control system** that dynamically switches UI dashboards and app permissions based on the user type.
-    *   **AI Agent Pipelines:** Integrated communication layers with **AI Agents** to handle real-time intelligent prompts and context-aware streaming responses.
-    *   **Real-Time Data Sync:** Architect **live app updates** and dynamic synchronization logic for instant data reflection.
+**Software Engineering Intern** *(Current)*
+
+- **Cross-Platform Deployments:** Engineering and optimizing scalable codebases for both **Android and iOS** devices.
+- **Advanced Authentication:** Implemented enterprise-grade auth using **Clerk**, including Google Sign-In, OTP validation, and secure password recovery workflows.
+- **Multi-Tenant Role Architecture:** Built a **3-role access control system** that dynamically switches UI dashboards and app permissions based on the user type.
+- **AI Agent Pipelines:** Integrated communication layers with **AI Agents** to handle real-time intelligent prompts and context-aware streaming responses.
+- **Real-Time Data Sync:** Architected **live app updates** and dynamic synchronization logic for instant data reflection.
 
 ---
-### Personal Projects
+
+### Featured Projects
 
 | Project | Description & Key Engineering Features | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Todo App** | **Real-Time Task Manager:** Multi-auth task suite (Google Sync & Passwords). Handles live Cloud Firestore sync, calendar strip date filters, swipe-to-delete patterns, local light/dark theme persistence, and Firebase Cloud Messaging reminders. | Flutter, Firebase Auth, Firestore, Cloud Messaging, Provider | [Code](https://github.com/sabihaniaz7/Todo-App) · [Demo](https://appetize.io/app/b_fbfaon4xpclcat3bjcwfe6jdna) |
-| **Light Link** | **Real-Time Load-Shedding App:** Solves real-world power schedule issues. Engineered a role-based system for live Firestore updates, integrated push notifications, profile management, and Cloudinary image hosting. | Flutter, Dart, Firebase Firestore, Cloudinary, RBAC |  |
-| **Expense Tracker** | **Personal Finance System:** Lightweight, offline-first app featuring local data caching, month-switching navigation, dynamic data visualization (Pie Charts), and an automated, 4-level visual budget escalation alert system. | Flutter, Hive NoSQL, Provider | [Code](https://github.com/sabihaniaz7/Expense-Tracker-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
-| **Trak** | **Multi-Utility Tracker:** Two-in-one productivity app combining task management and daily habit tracking. Built an Android Home Screen Widget for quick access alongside local notifications and robust data sorting/filtering. | Flutter, Provider, SharedPreferences, Local Notifications | [Code](https://github.com/sabihaniaz7/taskmanager-tracker-flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
-| **Quiz App** | **Logical Reasoning Platform:** Multi-subject educational platform with dynamic MCQ loading (750+ questions). Implemented robust scoring state logic, performance stats dashboards, PDF exports, and LaTeX rendering for math symbols. | Flutter, Dart, Provider, LaTeX, SharedPreferences | [Code](https://github.com/sabihaniaz7/Quiz-App-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
-| **Auth UI Kit** | **Production-Ready Templates:** Highly responsive login/signup authentication UI package featuring striking glassmorphism aesthetics and smooth interactive Rive mascot animations with clean validation logic. | Flutter, Rive Animation Engine, Custom UI/UX | [Code](https://github.com/sabihaniaz7/Login-Signup-UI-Flutter) · [Demo](https://appetize.io/app/b_j66h7lr4q7x44x3ketqyqoesim) |
-| **Notes App** | **Full CRUD Note-Taking:** Features rich-text editing, automated local database caching, global search, and layout structures (standard text, checklists, and bulleted note lists). | Flutter, Hive NoSQL, Provider State Management | [Code](https://github.com/sabihaniaz7/Notes-App-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
-| **PDF Reader** | **Document Viewer Architecture:** Features a smooth 3-tab navigation system handling Recent, Favorites, and On-Device local files with an optimized internal file-link structure. | Flutter, Dart, SharedPreferences, pdfrx package | [Code](https://github.com/sabihaniaz7/PDF-Reader-Flutter) |
+| **CalcX** | **Offline Calculator Suite:** Multi-tool calculator/utility app for students and engineers, with a redesigned, cohesive Material 3 visual language across every screen. | Flutter, Dart, GoRouter | *In final Play Store prep* |
+| **Todo App** | **Real-Time Task Manager:** Multi-auth task suite (Google Sync & Passwords) with live Firestore sync, calendar strip filters, swipe-to-delete, and FCM reminders. | Flutter, Firebase Auth, Firestore, Provider | [Code](https://github.com/sabihaniaz7/Todo-App) · [Demo](https://appetize.io/app/b_fbfaon4xpclcat3bjcwfe6jdna) |
+| **Expense Tracker** | **Personal Finance System:** Offline-first app with local caching, month navigation, Pie Chart visualizations, and a 4-level budget escalation alert system. | Flutter, Hive NoSQL, Provider | [Code](https://github.com/sabihaniaz7/Expense-Tracker-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
+| **Quiz App** | **Logical Reasoning Platform:** Multi-subject platform with 750+ dynamic MCQs, scoring logic, performance dashboards, PDF export, and LaTeX rendering. | Flutter, Dart, Provider, LaTeX | [Code](https://github.com/sabihaniaz7/Quiz-App-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
+
+<div align="center">
+  <sub>More projects — Light Link, Trak, Auth UI Kit, Notes App, PDF Reader — on <a href="https://github.com/sabihaniaz7?tab=repositories">my repositories page</a>.</sub>
+</div>
+
 ---
-
-<div align="center">
-  <a href="https://github.com/sabihaniaz7">
-    <img src="https://img.shields.io/badge/GitHub-sabihaniaz7-2D3748?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune">
-    <img src="https://img.shields.io/badge/Live%20Demo-Android%20Emulator-A8D5A2?style=flat-square&logo=android&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B5C9E2&height=80&section=footer" width="100%" />
-</div>
