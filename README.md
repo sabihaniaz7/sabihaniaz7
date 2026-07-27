@@ -3,8 +3,13 @@
 
 <br/><br/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Sabiha+Niaz&font=Fira+Code&center=true&width=500&height=70&color=7C3AED&vCenter=true&size=48&weight=800&duration=1&pause=100000" alt="Sabiha Niaz" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Sabiha+Niaz&font=Fira+Code&center=true&width=500&height=70&color=FFFFFF&vCenter=true&size=48&weight=800&duration=1&pause=100000">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Sabiha+Niaz&font=Fira+Code&center=true&width=500&height=70&color=000000&vCenter=true&size=48&weight=800&duration=1&pause=100000">
+    <img alt="Sabiha Niaz" src="https://readme-typing-svg.demolab.com/?lines=Sabiha+Niaz&font=Fira+Code&center=true&width=500&height=70&color=000000&vCenter=true&size=48&weight=800&duration=1&pause=100000">
+  </picture>
 </p>
+
 <div align="center">
   <a href="https://github.com/sabihaniaz7">
     <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Building+CalcX;Clean+Architecture+%7C+Riverpod+%7C+Provider&font=JetBrains+Mono&center=true&width=500&height=45&color=A78BFA&vCenter=true&size=20&weight=400" alt="Typing SVG" />
