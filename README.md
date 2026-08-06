@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/sabihaniaz7">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Building+CalcX;Clean+Architecture+%7C+Riverpod+%7C+Provider&font=JetBrains+Mono&center=true&width=500&height=45&color=A78BFA&vCenter=true&size=20&weight=400" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Building+DevSwitch;Clean+Architecture+%7C+Riverpod+%7C+Provider&font=JetBrains+Mono&center=true&width=500&height=45&color=A78BFA&vCenter=true&size=20&weight=400" alt="Typing SVG" />
   </a>
 </div>
 
@@ -90,7 +90,7 @@
 
 | Project | Description & Key Engineering Features | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **CalcX** | **Offline Calculator Suite:** Featuring 38–40 calculators and utilities across Mathematics, Physics, Computer Science, General Everyday Tools, History, and Favourites. | Flutter, Dart, GoRouter, Riverpod, Hive | *In final Play Store prep* |
+| **CalcX** | **Offline Calculator Suite:** Featuring 38–40 calculators and utilities across Mathematics, Physics, Computer Science, General Everyday Tools, History, and Favourites. | Flutter, Dart, GoRouter, Riverpod, Hive | [Repo](https://github.com/sabihaniaz7/CalcX) |
 | **Todo App** | **Real-Time Task Manager:** Multi-auth task suite (Google Sync & Passwords) with live Firestore sync, calendar strip filters, swipe-to-delete, and FCM reminders. | Flutter, Firebase Auth, Firestore, Provider | [Code](https://github.com/sabihaniaz7/Todo-App) · [Demo](https://appetize.io/app/b_fbfaon4xpclcat3bjcwfe6jdna) |
 | **Expense Tracker** | **Personal Finance System:** Offline-first app with local caching, month navigation, Pie Chart visualizations, and a 4-level budget escalation alert system. | Flutter, Hive NoSQL, Provider | [Code](https://github.com/sabihaniaz7/Expense-Tracker-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
 | **Quiz App** | **Logical Reasoning Platform:** Multi-subject platform with 750+ dynamic MCQs, scoring logic, performance dashboards, PDF export, and LaTeX rendering. | Flutter, Dart, Provider, LaTeX | [Code](https://github.com/sabihaniaz7/Quiz-App-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
