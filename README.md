@@ -84,13 +84,20 @@
 - **AI Agent Pipelines:** Integrated communication layers with **AI Agents** to handle real-time intelligent prompts and context-aware streaming responses.
 - **Real-Time Data Sync:** Architected **live app updates** and dynamic synchronization logic for instant data reflection.
 
+**Android Developer Intern** · [NexAppra](https://www.nexappra.com/) *(Current)*
+ 
+- Built **CalcX**, an offline calculator suite with 40+ tools across Mathematics, Physics, Computer Science, and General categories — from architecture to Play Store launch.
+- Designed a cohesive **design system** (category-based accent colors, typography, component library) applied consistently across 40+ screens.
+- Implemented **step-by-step solution breakdowns** for all math tools, local history/favourites persistence with **Hive**, and offline-first data architecture.
+- Handled **Play Store submission** end-to-end — store listing copy, ASO-optimized descriptions, screenshot mockups, privacy policy, and app icon design.
+
 ---
 
 ### Featured Projects
 
 | Project | Description & Key Engineering Features | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **CalcX** | **Offline Calculator Suite:** Featuring 38–40 calculators and utilities across Mathematics, Physics, Computer Science, General Everyday Tools, History, and Favourites. | Flutter, Dart, GoRouter, Riverpod, Hive | [Repo](https://github.com/sabihaniaz7/CalcX) |
+| **CalcX** | **Offline Calculator Suite:** Featuring 38–40 calculators and utilities across Mathematics, Physics, Computer Science, General Everyday Tools, History, and Favourites. | Flutter, Dart, GoRouter, Riverpod, Hive | [Repo](https://github.com/sabihaniaz7/CalcX) · [App]() |
 | **Todo App** | **Real-Time Task Manager:** Multi-auth task suite (Google Sync & Passwords) with live Firestore sync, calendar strip filters, swipe-to-delete, and FCM reminders. | Flutter, Firebase Auth, Firestore, Provider | [Code](https://github.com/sabihaniaz7/Todo-App) · [Demo](https://appetize.io/app/b_fbfaon4xpclcat3bjcwfe6jdna) |
 | **Expense Tracker** | **Personal Finance System:** Offline-first app with local caching, month navigation, Pie Chart visualizations, and a 4-level budget escalation alert system. | Flutter, Hive NoSQL, Provider | [Code](https://github.com/sabihaniaz7/Expense-Tracker-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
 | **Quiz App** | **Logical Reasoning Platform:** Multi-subject platform with 750+ dynamic MCQs, scoring logic, performance dashboards, PDF export, and LaTeX rendering. | Flutter, Dart, Provider, LaTeX | [Code](https://github.com/sabihaniaz7/Quiz-App-Flutter) · [Demo](https://appetize.io/app/ag_bt3gnaaq2mnd6fjd5unvs6zune) |
