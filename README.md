@@ -72,27 +72,6 @@
 
 ---
 
-### Professional Experience
-
-> *The following commercial projects are protected under NDAs (Non-Disclosure Agreements). Specific application names, company identifiers, and proprietary source code have been omitted to respect confidentiality.*
-
-**Software Engineering Intern** *(Current)*
-
-- **Cross-Platform Deployments:** Engineering and optimizing scalable codebases for both **Android and iOS** devices.
-- **Advanced Authentication:** Implemented enterprise-grade auth using **Clerk**, including Google Sign-In, OTP validation, and secure password recovery workflows.
-- **Multi-Tenant Role Architecture:** Built a **3-role access control system** that dynamically switches UI dashboards and app permissions based on the user type.
-- **AI Agent Pipelines:** Integrated communication layers with **AI Agents** to handle real-time intelligent prompts and context-aware streaming responses.
-- **Real-Time Data Sync:** Architected **live app updates** and dynamic synchronization logic for instant data reflection.
-
-**Android Developer Intern** · [NexAppra](https://www.nexappra.com/) *(Current)*
- 
-- Built **CalcX**, an offline calculator suite with 40+ tools across Mathematics, Physics, Computer Science, and General categories — from architecture to Play Store launch.
-- Designed a cohesive **design system** (category-based accent colors, typography, component library) applied consistently across 40+ screens.
-- Implemented **step-by-step solution breakdowns** for all math tools, local history/favourites persistence with **Hive**, and offline-first data architecture.
-- Handled **Play Store submission** end-to-end — store listing copy, ASO-optimized descriptions, screenshot mockups, privacy policy, and app icon design.
-
----
-
 ### Featured Projects
 
 | Project | Description & Key Engineering Features | Tech Stack | Links |
