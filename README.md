@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/sabihaniaz7">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Building+DevSwitch;Clean+Architecture+%7C+Riverpod+%7C+Provider&font=JetBrains+Mono&center=true&width=500&height=45&color=A78BFA&vCenter=true&size=20&weight=400" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Building+Snipster;Clean+Architecture+%7C+Riverpod+%7C+Provider&font=JetBrains+Mono&center=true&width=500&height=45&color=A78BFA&vCenter=true&size=20&weight=400" alt="Typing SVG" />
   </a>
 </div>
 
