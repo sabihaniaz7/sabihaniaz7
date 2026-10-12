@@ -85,7 +85,7 @@
 
 | Project | Description & Key Engineering Features | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **CalcX** | **Offline Calculator Suite:** Featuring 38–40 calculators and utilities across Mathematics, Physics, Computer Science, General Everyday Tools, History, and Favourites. | Flutter, Dart, GoRouter, Riverpod, Hive | [Repo](https://github.com/sabihaniaz7/CalcX) · [App]() |
+| **CalcX** | **Offline Calculator Suite:** Featuring 38–40 calculators and utilities across Mathematics, Physics, Computer Science, General Everyday Tools, History, and Favourites. | Flutter, Dart, GoRouter, Riverpod, Hive | [Repo](https://github.com/sabihaniaz7/CalcX) · [PlayStore](https://play.google.com/store/apps/details?id=com.nexappra.calcx.app) |
 | **Todo App** | **Real-Time Task Manager:** Multi-auth task suite (Google Sync & Passwords) with live Firestore sync, calendar strip filters, swipe-to-delete, and FCM reminders. | Flutter, Firebase Auth, Firestore, Provider | [Code](https://github.com/sabihaniaz7/Todo-App) · [Demo](https://appetize.io/app/b_fbfaon4xpclcat3bjcwfe6jdna) |
 | **Event Management App** | **End-to-End Event Platform:** Create, browse, and RSVP to events with role-based access, ticketing/booking flow, and real-time status updates backed by a REST API. | Flutter, Node.js, Express, MongoDB | [Code](https://github.com/sabihaniaz7/Event-Booking-App) |
 | **DevSwitch** | **One-Tap Developer Toggle:** Flutter + Kotlin Android app to toggle Developer options, USB debugging, and Wireless debugging instantly — from the app or a home screen widget — no digging through Settings. | Flutter, Kotlin, Android Widgets | [Code](https://github.com/sabihaniaz7/Dev-Switch) · [App](https://github.com/sabihaniaz7/Dev-Switch/releases) |
