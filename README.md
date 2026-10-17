@@ -20,7 +20,7 @@
   <p align="center">
     <a href="mailto:sabihaniaz7@gmail.com"><img src="https://img.shields.io/badge/Email-sabihaniaz7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/sabiha-niaz-864771383/"><img src="https://img.shields.io/badge/LinkedIn-Sabiha%20Niaz-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://docs.google.com/document/d/14vI02pUKfSN6XUl1yqdNEnFOY6_c_jmOFN5k7fbyslc/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-004643?style=flat-square&logo=readdotcv&logoColor=white" /></a>
+    <a href="https://docs.google.com/document/d/14qG_X93wbCgXXK5oCKf0WBKK0RNIm79p/edit?usp=drive_link&ouid=104939119861704576436&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-Download-004643?style=flat-square&logo=readdotcv&logoColor=white" /></a>
   </p>
 </div>
 
