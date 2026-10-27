@@ -68,11 +68,19 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FF7043?style=for-the-badge&logo=hive&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF4088?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF4088?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-111827?style=for-the-badge)
+
+**AI & Monetization**
+
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=googleadmob&logoColor=white)
 
 **CI/CD**
 
@@ -85,10 +93,11 @@
 
 | Project | Description & Key Engineering Features | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **CalcX** | **Offline Calculator Suite:** Featuring 50 calculators and utilities across Mathematics, Physics, Chemistry, Computer, General Everyday Tools, History, and Favourites. | Flutter, Dart, GoRouter, Riverpod, Hive | [Repo](https://github.com/sabihaniaz7/CalcX) · [PlayStore](https://play.google.com/store/apps/details?id=com.nexappra.calcx.app) |
-| **Todo App** | **Real-Time Task Manager:** Multi-auth task suite (Google Sync & Passwords) with live Firestore sync, calendar strip filters, swipe-to-delete, and FCM reminders. | Flutter, Firebase Auth, Firestore, Provider | [Code](https://github.com/sabihaniaz7/Todo-App) · [Demo](https://appetize.io/app/b_fbfaon4xpclcat3bjcwfe6jdna) |
-| **Event Management App** | **End-to-End Event Platform:** Create, browse, and RSVP to events with role-based access, ticketing/booking flow, and real-time status updates backed by a REST API. | Flutter, Node.js, Express, MongoDB | [Code](https://github.com/sabihaniaz7/Event-Booking-App) |
-| **DevSwitch** | **One-Tap Developer Toggle:** Flutter + Kotlin Android app to toggle Developer options, USB debugging, and Wireless debugging instantly — from the app or a home screen widget — no digging through Settings. | Flutter, Kotlin, Android Widgets | [Code](https://github.com/sabihaniaz7/Dev-Switch) · [App](https://github.com/sabihaniaz7/Dev-Switch/releases) |
+| **CrisisFlow** | **AI Emergency Response Platform:** Citizens report incidents with GPS and media, Gemini AI scores severity, and admins assign responders with real-time updates for every role. | Flutter, FastAPI, PostgreSQL, WebSockets, Gemini AI | [Code](https://github.com/sabihaniaz7/CrisisFlow) · [Live](https://crisis-flow-web.vercel.app/) |
+| **CalcX** | **Offline Calculator Suite:** 50 calculators and utilities across Mathematics, Physics, Chemistry, Computer, and General tools, with step-by-step solutions in the app. Monetized with AdMob and live on the Play Store. | Flutter, Dart, GoRouter, Riverpod, Hive, AdMob | [Repo](https://github.com/sabihaniaz7/CalcX) · [Play Store](https://play.google.com/store/apps/details?id=com.nexappra.calcx.app) |
+| **Event Booking App** | **Full-Stack Ticketing Platform:** JWT auth, category search and filters, live seat availability, and QR-coded tickets, plus an admin dashboard for events, bookings, and users. | Flutter, Riverpod, GoRouter, Node.js, Express, MongoDB | [Repo](https://github.com/sabihaniaz7/Event-Booking-App) |
+| **Todo App** | **Real-Time Task Manager:** Multi-auth task suite (Google Sync & Passwords) with live Firestore sync, calendar strip filters, swipe-to-delete, and FCM reminders. | Flutter, Firebase Auth, Firestore, Provider | [Repo](https://github.com/sabihaniaz7/Todo-App) · [Demo](https://appetize.io/app/b_fbfaon4xpclcat3bjcwfe6jdna) |
+| **DevSwitch** | **One-Tap Developer Toggle:** Flutter + Kotlin Android app to toggle Developer options, USB debugging, and Wireless debugging instantly — from the app or a home screen widget — no digging through Settings. | Flutter, Kotlin, Android Widgets | [Repo](https://github.com/sabihaniaz7/Dev-Switch) · [App](https://github.com/sabihaniaz7/Dev-Switch/releases) |
 
 <div align="center">
   <h5>
