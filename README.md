@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/sabihaniaz7">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Building+Snipster;Clean+Architecture+%7C+Riverpod+%7C+Provider&font=JetBrains+Mono&center=true&width=500&height=45&color=A78BFA&vCenter=true&size=20&weight=400" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Building+Snipster;Clean+Architecture+%7C+Riverpod+%7C+Provider;Open+to+Remote+roles&font=JetBrains+Mono&center=true&width=500&height=45&color=A78BFA&vCenter=true&size=20&weight=400" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,6 +23,10 @@
     <a href="https://docs.google.com/document/d/14qG_X93wbCgXXK5oCKf0WBKK0RNIm79p/edit?usp=drive_link&ouid=104939119861704576436&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-Download-004643?style=flat-square&logo=readdotcv&logoColor=white" /></a>
   </p>
 </div>
+
+### About Me
+
+Flutter developer building production-ready mobile apps, from offline-first apps like CalcX (live on the Play Store) to full-stack platforms with FastAPI and Node.js backends. I write clean, scalable code with Clean Architecture and State Management.
 
 ---
 
